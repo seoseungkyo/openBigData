@@ -1,0 +1,10 @@
+# coding: cp949
+
+order_list=["Â¥Àå¸é2","Â«»Í2","Â¥Àå¸é1","Â«Â¥¸é2",
+            "ÆÈº¸Ã¤1+ººÀ½¹ä2","¼¡½ºÇÉ1+ººÀ½¹ä1"]
+
+print("È¯¿µÇÕ´Ï´Ù")
+print(order_list)
+
+while order_list:
+    print(order_list.pop())
