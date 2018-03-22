@@ -4,4 +4,5 @@ for grade in A:
     total = total + grade
 
 average = total / 10
+
 print(average)
